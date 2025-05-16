@@ -2,7 +2,7 @@
 
 **ID:** TXXXX  (ID TBC)
 **Tactic:** Defence Evasion, Impact  
-**Platform:** Git (local and remote), GitHub, GitLab, Bitbucket, Gitea
+**Platform:** Git (local and remote), GitHub, GitLab, Bitbucket, Gitea  
 **Permissions Required:** Commit access to a Git repository  
 **Effective Permissions:** Author or committer rights  
 **Data Sources:** Version control logs, CI/CD system records, commit signature validation, code review activity  
