@@ -1,6 +1,6 @@
-# TXXXX: Commit Stomping
+# TXXXX (ATT&CK ID TBC): Commit Stomping
 
-**ID:** TXXXX  (ID TBC)
+**ID:** TXXXX  (ATT&CK ID TBC)
 **Tactic:** Defence Evasion, Impact  
 **Platform:** Git (local and remote), GitHub, GitLab, Bitbucket, Gitea  
 **Permissions Required:** Commit access to a Git repository  
@@ -26,14 +26,11 @@ Both can be set or overridden using environment variables or history rewriting t
 Commit Stomping can undermine trust in version control data and weaken software supply chain integrity in organisations where commit history is used for compliance checks, attribution, or as part of a secure development pipeline.
 
 
-
 ## Procedure Examples
 
 - A developer alters commit dates to make a recent backdoor appear as part of an earlier release.  
 - During an investigation, a malicious user rewrites timestamps to mislead forensic timelines and obscure when credentials or logic were added.  
 - An attacker automates timestamp randomisation across a codebase to inject entropy into the commit log and derail efforts to reconstruct a sequence of events.
-
-
 
 ## Detection
 
