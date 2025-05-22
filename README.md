@@ -1,6 +1,7 @@
 # TXXXX (ATT&CK ID TBC): Commit Stomping
 
 **ID:** TXXXX  (ATT&CK ID TBC) 
+
 **Tactic:** Defence Evasion, Impact   
 **Platform:** Git (local and remote), GitHub, GitLab, Bitbucket, Gitea  
 **Permissions Required:** Commit access to a Git repository  
